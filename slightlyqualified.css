@@ -1,0 +1,17 @@
+h1 {
+    font-family: 'hanging_lettersregular';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 5em;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.podcast-logo {
+    display: inline-block;
+    width: 82px;
+    height: 82px;
+    background: url(assets/podcast.svg);
+    background-size:  82px 82px;
+    margin-right: 20px;
+}
