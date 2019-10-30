@@ -10,12 +10,3 @@ h1 {
     margin: 0 auto;
     text-align: center;
 }
-
-.podcast-logo {
-    display: inline-block;
-    width: 82px;
-    height: 82px;
-    background: url(assets/podcast.svg);
-    background-size:  82px 82px;
-    margin-right: 20px;
-}
